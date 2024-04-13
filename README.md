@@ -17,6 +17,10 @@ Import Dashboard: Import the dashboard file provided in the repository into Look
 Connect Data Sources: Connect your data sources to Looker Studio to populate the dashboard with your data.
 Explore and Analyze: Start exploring your data and uncovering valuable insights using the interactive dashboard.
 
+## Project Link
+https://lookerstudio.google.com/embed/reporting/3fc4851b-1338-4f40-830a-495d0a84b825/page/GRVwD
+https://lookerstudio.google.com/reporting/3fc4851b-1338-4f40-830a-495d0a84b825
+
 ## Contributing:
 
 Contributions to enhance the dashboard or fix any issues are welcome! Please fork the repository, make your changes, and submit a pull request. Be sure to follow the contribution guidelines outlined in the repository.
